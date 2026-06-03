@@ -11,7 +11,7 @@ export const products = [
     dimensions: '120 × 120 cm',
     price: 1000000,
     currency: 'ARS',
-    image: '/sur-art/fotos/FormasDeUnTiempo.jpeg',
+    image: '/Villa-Sur-Art/fotos/FormasDeUnTiempo.jpeg',
     description: 'Lapiz sobre tela',
   },
   {
@@ -22,7 +22,7 @@ export const products = [
     dimensions: '35 × 21,5 cm',
     price: 2000000,
     currency: 'ARS',
-    image: '/sur-art/fotos/Arriba.jpeg',
+    image: '/Villa-Sur-Art/fotos/Arriba.jpeg',
     description: 'Pluma y Tinta sobre papel',
   },
   {
@@ -33,7 +33,7 @@ export const products = [
     dimensions: '90 × 110 cm',
     price: 1000,
     currency: 'USD',
-    image: '/sur-art/fotos/Yocavil.jpeg',
+    image: '/Villa-Sur-Art/fotos/Yocavil.jpeg',
     description: 'Oleo sobre Tela',
   },
   {
@@ -44,7 +44,7 @@ export const products = [
     dimensions: '80 × 60 cm',
     price: 900000,
     currency: 'ARS',
-    image: '/sur-art/fotos/DuendesDelCarnaval.jpeg',
+    image: '/Villa-Sur-Art/fotos/DuendesDelCarnaval.jpeg',
     description: 'Acrilico',
   },
   {
@@ -55,7 +55,7 @@ export const products = [
     dimensions: '80 × 50 cm',
     price: 250000,
     currency: 'ARS',
-    image: '/sur-art/fotos/ElSembrador.jpeg',
+    image: '/Villa-Sur-Art/fotos/ElSembrador.jpeg',
     description: 'Acrilico',
   },
   {
@@ -66,7 +66,7 @@ export const products = [
     dimensions: '59 × 89 cm',
     price: 350000,
     currency: 'ARS',
-    image: '/sur-art/fotos/RioAmbulante.png',
+    image: '/Villa-Sur-Art/fotos/RioAmbulante.png',
     description: 'Xilocollagraph',
   },
   {
@@ -77,7 +77,7 @@ export const products = [
     dimensions: '91 × 85,5 cm',
     price: 1200000,
     currency: 'ARS',
-    image: '/sur-art/fotos/Atlantes.jpeg',
+    image: '/Villa-Sur-Art/fotos/Atlantes.jpeg',
     description: 'Lapiz sobre madera',
   },
   {
@@ -88,7 +88,7 @@ export const products = [
     dimensions: '108 × 85 cm',
     price: 2000000,
     currency: 'ARS',
-    image: '/sur-art/fotos/ThisIsMyEnd.jpeg',
+    image: '/Villa-Sur-Art/fotos/ThisIsMyEnd.jpeg',
     description: 'Acrilico sobre tela',
   },
   {
@@ -99,7 +99,7 @@ export const products = [
     dimensions: '90 × 80 cm',
     price: 300000,
     currency: 'ARS',
-    image: '/sur-art/fotos/MisioneroEnsamblado.jpeg',
+    image: '/Villa-Sur-Art/fotos/MisioneroEnsamblado.jpeg',
     description: 'Acrilico sobre mdf',
   },
   {
@@ -110,7 +110,7 @@ export const products = [
     dimensions: '108 × 85 cm',
     price: 2000000,
     currency: 'ARS',
-    image: '/sur-art/fotos/FiguraSentada.jpeg',
+    image: '/Villa-Sur-Art/fotos/FiguraSentada.jpeg',
     description: 'Tinta y pluma sobre papel',
   },
   {
@@ -121,7 +121,7 @@ export const products = [
     dimensions: '36 × 36 cm',
     price: 350000,
     currency: 'ARS',
-    image: '/sur-art/fotos/SinTitulo3.jpg',
+    image: '/Villa-Sur-Art/fotos/SinTitulo3.jpg',
     description: 'Tecnica mixta sobre papel',
   },
   {
@@ -132,7 +132,7 @@ export const products = [
     dimensions: '100 × 90 cm',
     price: 1500000,
     currency: 'ARS',
-    image: '/sur-art/fotos/PorUnaCabeza.jpeg',
+    image: '/Villa-Sur-Art/fotos/PorUnaCabeza.jpeg',
     description: 'Acrilico sobre papel, collage',
   },
   {
@@ -143,7 +143,7 @@ export const products = [
     dimensions: '100 × 80 cm',
     price: 1000000,
     currency: 'ARS',
-    image: '/sur-art/fotos/ElevacionYPoder.jpeg',
+    image: '/Villa-Sur-Art/fotos/ElevacionYPoder.jpeg',
     description: 'Acrilico',
   },
   {
@@ -154,7 +154,7 @@ export const products = [
     dimensions: '45 × 58 cm',
     price: 300000,
     currency: 'ARS',
-    image: '/sur-art/fotos/CiudadQuieta.png',
+    image: '/Villa-Sur-Art/fotos/CiudadQuieta.png',
     description: 'Grabado',
   },
   {
@@ -165,7 +165,7 @@ export const products = [
     dimensions: '77 × 58 cm',
     price: 500000,
     currency: 'ARS',
-    image: '/sur-art/fotos/Infantil.jpeg',
+    image: '/Villa-Sur-Art/fotos/Infantil.jpeg',
     description: 'Acrilico sobre tela',
   },
   {
@@ -176,7 +176,7 @@ export const products = [
     dimensions: '100 × 150 cm',
     price: 500000,
     currency: 'ARS',
-    image: '/sur-art/fotos/UniversosAntagonicos.png',
+    image: '/Villa-Sur-Art/fotos/UniversosAntagonicos.png',
     description: 'Grabado',
   },
   {
@@ -187,7 +187,7 @@ export const products = [
     dimensions: '34,5 × 26 cm',
     price: 2000000,
     currency: 'ARS',
-    image: '/sur-art/fotos/SinTitulo1.jpeg',
+    image: '/Villa-Sur-Art/fotos/SinTitulo1.jpeg',
     description: 'Tinta y pluma sobre papel',
   },
   {
@@ -198,7 +198,7 @@ export const products = [
     dimensions: '70 × 50 cm',
     price: 700000,
     currency: 'ARS',
-    image: '/sur-art/fotos/DuendesDelCañaveral.jpeg',
+    image: '/Villa-Sur-Art/fotos/DuendesDelCañaveral.jpeg',
     description: 'Acrilico',
   },
   {
@@ -209,7 +209,7 @@ export const products = [
     dimensions: '40 × 30,5 cm',
     price: 300000,
     currency: 'ARS',
-    image: '/sur-art/fotos/Lu.jpeg',
+    image: '/Villa-Sur-Art/fotos/Lu.jpeg',
     description: 'Acrilico',
   },
   {
@@ -220,7 +220,7 @@ export const products = [
     dimensions: '78 × 95 cm',
     price: 700,
     currency: 'USD',
-    image: '/sur-art/fotos/CruzandoLaTormenta.jpeg',
+    image: '/Villa-Sur-Art/fotos/CruzandoLaTormenta.jpeg',
     description: 'Oleo sobre tela',
   },
   {
@@ -231,7 +231,7 @@ export const products = [
     dimensions: '70 × 40 cm',
     price: 270000,
     currency: 'ARS',
-    image: '/sur-art/fotos/ContraSi.jpg',
+    image: '/Villa-Sur-Art/fotos/ContraSi.jpg',
     description: 'Mixta sobre tela',
   },
   {
@@ -242,7 +242,7 @@ export const products = [
     dimensions: '70 × 98 cm',
     price: 1500000,
     currency: 'ARS',
-    image: '/sur-art/fotos/MujerNorteña.jpg',
+    image: '/Villa-Sur-Art/fotos/MujerNorteña.jpg',
     description: 'Acrilico sobre tela',
   },
   {
@@ -253,7 +253,7 @@ export const products = [
     dimensions: '120 × 120 cm',
     price: 2700000,
     currency: 'ARS',
-    image: '/sur-art/fotos/Carlitos.jpeg',
+    image: '/Villa-Sur-Art/fotos/Carlitos.jpeg',
     description: 'Acrilico sobre tela',
   },
   {
@@ -264,7 +264,7 @@ export const products = [
     dimensions: '40 × 30,5 cm',
     price: 300000,
     currency: 'ARS',
-    image: '/sur-art/fotos/ArtificiosTerritoriales.png',
+    image: '/Villa-Sur-Art/fotos/ArtificiosTerritoriales.png',
     description: 'Xilocollagraph',
   },
   {
@@ -275,7 +275,7 @@ export const products = [
     dimensions: '31,5 × 21,,5 cm',
     price: 2000000,
     currency: 'ARS',
-    image: '/sur-art/fotos/SinTitulo2.jpeg',
+    image: '/Villa-Sur-Art/fotos/SinTitulo2.jpeg',
     description: 'Tinta sobre papel',
   },
   {
@@ -286,7 +286,7 @@ export const products = [
     dimensions: '90 × 80 cm',
     price: 2500000,
     currency: 'ARS',
-    image: '/sur-art/fotos/EspecialRios.png',
+    image: '/Villa-Sur-Art/fotos/EspecialRios.png',
     description: 'Oleo sobre tela',
   },
   {
@@ -297,7 +297,7 @@ export const products = [
     dimensions: '95 × 59 cm',
     price: 1500000,
     currency: 'ARS',
-    image: '/sur-art/fotos/EnElAlmaDelPueblo.jpeg',
+    image: '/Villa-Sur-Art/fotos/EnElAlmaDelPueblo.jpeg',
     description: 'Acrilico sobre tela',
   },
 ]
