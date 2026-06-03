@@ -72,7 +72,7 @@ export default function Hero() {
         <div className={styles.imagePanel}>
           <div className={styles.imageFeatured}>
             <img
-              src="/sur-art/fotos/AlFinYAlCabo.png"
+              src="/Villa-Sur-Art/fotos/AlFinYAlCabo.png"
               alt="Al fin y al cabo — obra destacada"
               style={{ width: "100%", height: "100%", objectFit: "cover" }}
             />

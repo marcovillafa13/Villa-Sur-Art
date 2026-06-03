@@ -72,14 +72,14 @@ export default function About() {
         <div className={styles.imageCol}>
           <div className={styles.imageMain}>
             <img
-              src="/sur-art/fotos/seriesvino_1.jpeg"
+              src="/Villa-Sur-Art/fotos/seriesvino_1.jpeg"
               alt="Taller"
               style={{ width: "100%", height: "100%", objectFit: "cover" }}
             />
           </div>
           <div className={styles.imageAccent}>
             <img
-              src="/sur-art/fotos/fotochica.png"
+              src="/Villa-Sur-Art/fotos/fotochica.png"
               alt="Villa Sur-Art taller"
               style={{ width: "100%", height: "100%", objectFit: "cover" }}
             />
