@@ -237,14 +237,14 @@
 
 .cardName {
   font-family: var(--font-display);
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 400;
   color: var(--ink);
   line-height: 1.2;
 }
 
 .cardArtist {
-  font-size: 12px;
+  font-size: 18px;
   color: var(--ink-light);
   font-style: italic;
   font-family: var(--font-display);

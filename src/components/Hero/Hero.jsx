@@ -22,7 +22,7 @@ export default function Hero() {
             historia única
           </h1>
           <p className={styles.subtitle}>
-            Cuadros artísticos y piezas de grabado creadas con pasión. Cada
+            Obras artísticas y piezas de grabado creadas con pasión. Cada
             obra transforma un espacio y evoca emociones que perduran.
           </p>
           <div className={styles.actions}>
@@ -72,14 +72,10 @@ export default function Hero() {
         <div className={styles.imagePanel}>
           <div className={styles.imageFeatured}>
             <img
-              src="/Villa-Sur-Art/fotos/AlFinYAlCabo.png"
+              src="/Villa-Sur-Art/fotos/FormasDeUnTiempo.jpeg"
               alt="Al fin y al cabo — obra destacada"
               style={{ width: "100%", height: "100%", objectFit: "cover" }}
             />
-            <div className={styles.imageTag}>
-              <span className={styles.imageTagCategory}>Pintura / Tela</span>
-              <span className={styles.imageTagPrice}>$1.500.000</span>
-            </div>
           </div>
           {/* Decorative element */}
           <div className={styles.decoBracket} aria-hidden="true">
